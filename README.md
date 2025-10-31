@@ -6,7 +6,7 @@ Section
 ---
 
 ```sql
-DROP FROM users;
+DELETE FROM users;
 ```
 
 > Quote
